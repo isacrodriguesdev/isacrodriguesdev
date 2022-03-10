@@ -13,8 +13,6 @@ bc1qk8v3gup2ecx8t846c6f2qklu5dd2nkukvplaqw
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 <div align="left" valign="top">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
@@ -29,6 +27,6 @@ bc1qk8v3gup2ecx8t846c6f2qklu5dd2nkukvplaqw
 <br/>
 
 <div align="left">
-  <a style="margin-left: 10px;" href="https://www.instagram.com/isacrodrigues.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a style="margin-right: 10px;" href="https://www.instagram.com/isacrodrigues.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isacrodriguesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
