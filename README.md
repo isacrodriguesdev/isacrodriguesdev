@@ -12,6 +12,10 @@
 bc1qk8v3gup2ecx8t846c6f2qklu5dd2nkukvplaqw
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div align="center" valign="top">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -23,8 +27,6 @@ bc1qk8v3gup2ecx8t846c6f2qklu5dd2nkukvplaqw
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-<br/>
-<br/>
 <br/>
 <br/>
 
