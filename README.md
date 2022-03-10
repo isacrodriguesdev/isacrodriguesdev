@@ -1,4 +1,5 @@
 ### Hello, programmer at your service 👋
+🇧🇷 Brasil
 
 - 🔭 Development in various areas of programming
 - 🌱 I'm currently learning C#
