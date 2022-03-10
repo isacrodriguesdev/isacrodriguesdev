@@ -16,7 +16,7 @@ bc1qk8v3gup2ecx8t846c6f2qklu5dd2nkukvplaqw
 <br/>
 <br/>
 
-<div align="center" valign="top">
+<div align="left" valign="top">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="android" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
   <img align="center" alt="kotlin" height="23" width="33" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg">
