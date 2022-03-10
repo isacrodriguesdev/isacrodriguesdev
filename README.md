@@ -1,4 +1,4 @@
-<b>Hello</b> 👋 programmer at your service
+<i>Hello</i>👋 programmer at your service
 🇧🇷 Brasil
 
 - Development in various areas of programming
