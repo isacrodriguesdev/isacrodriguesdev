@@ -5,6 +5,6 @@
 - 👯 Estou procurando colaborar em inovação financeira
 - 📫 Como me encontrar no Telegram e Whatsapp (62) 9 9455 3917
 
-#Bitcoin
+<b>My bitcoin account</b>
 <br/>
-#Blockchain
+bc1qj8j2evp767fenccztgzpg2upp5p09mzs0mvpre
