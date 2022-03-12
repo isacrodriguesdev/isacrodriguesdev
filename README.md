@@ -5,7 +5,7 @@
 - I'm currently learning C#
 - I am looking to collaborate on financial innovation
 
-👤 How to find me on Telegram and Whatsapp <b>+55 (62) 9 9455 3917</b>
+👤 How to find me on Telegram <b>@isacrodriguesdev</b>
 
 <b>₿ My bitcoin wallet</b>
 <br/>
