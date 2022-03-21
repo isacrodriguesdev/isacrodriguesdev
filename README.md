@@ -6,7 +6,7 @@ Atualmente estou desenvolvendo em diversas ideias pessoais e free-lancer, o que 
 Telegram e Element: @isacrodriguesdev<br/>
 Whatsapp: https://wa.me/message/DXTR6L3R5IG2J1
 
-<b>Meu denreço de deposito bitcoin</b>
+<b>Endereço bitcoin</b>
 <br/>
 bc1qk8v3gup2ecx8t846c6f2qklu5dd2nkukvplaqw
 <br/>
