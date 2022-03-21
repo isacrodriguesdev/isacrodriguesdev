@@ -1,8 +1,8 @@
-Olá, trabalho com programação desde 2018 especializado com desenvolvimento de aplicativos, sistemas e back-end, criei alguns projetos relacionado a bitcoin, telegram, whatsapp e aplicativo de transporte urbano em NA Produções.
+<i>Olá</i>, trabalho com programação desde 2018 especializado com desenvolvimento de aplicativos, sistemas e back-end, criei alguns projetos relacionado a bitcoin, telegram, whatsapp e aplicativo de transporte urbano em NA Produções.
 
 Atualmente estou desenvolvendo em diversas ideias pessoais e free-lancer, o que estou estudando no momento e C# e Kotlin para Android
 
-Como me encontrar<br/>
+<b>Como me encontrar</b><br/>
 Telegram e Element: @isacrodriguesdev<br/>
 Whatsapp: https://wa.me/message/DXTR6L3R5IG2J1
 
