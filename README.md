@@ -1,13 +1,12 @@
-<i>Hello</i> programmer at your service<br/>
-🇧🇷 Brasil
+Olá, trabalho com programação desde 2018 especializado com desenvolvimento de aplicativos, sistemas e back-end, criei alguns projetos relacionado a bitcoin, telegram, whatsapp e aplicativo de transporte urbano em NA Produções.
 
-- Development in various areas of programming
-- I'm currently learning C#
-- I am looking to collaborate on financial innovation
+Atualmente estou desenvolvendo em diversas ideias pessoais e free-lancer, o que estou estudando no momento e C# e Kotlin para Android
 
-👤 How to find me on Telegram <b>@isacrodriguesdev</b>
+Como me encontrar 
+Telegram e Element: @isacrodriguesdev 
+Whatsapp: https://wa.me/message/DXTR6L3R5IG2J1
 
-<b>₿ My bitcoin wallet</b>
+<b>₿ Minha carteira bitcoin</b>
 <br/>
 bc1qk8v3gup2ecx8t846c6f2qklu5dd2nkukvplaqw
 <br/>
