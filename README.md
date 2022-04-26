@@ -3,7 +3,7 @@
 Atualmente estou desenvolvendo em diversas ideias pessoais e free-lancer, o que estou estudando no momento e C# e Kotlin para Android
 
 <b>Como me encontrar</b><br/>
-Telegram e Element: @isacrodriguesdev<br/>
+Telegram: @isacrodriguesdev<br/>
 Whatsapp: https://wa.me/message/DXTR6L3R5IG2J1
 
 <b>Endereço bitcoin</b>
