@@ -4,7 +4,7 @@ Padrões de projeto como o Solid, Singleton, Adapter e Factory é dos meus ponto
 
 Atualmente estou desenvolvendo em diversas ideias pessoais e free-lancer, o que estou estudando no momento é C# ASP.NET e Kotlin para Android
 
-Como me encontrar 
+Como me encontrar<br/>
 Telegram: @isacrodriguesdev<br/>
 Whatsapp: https://wa.me/message/DXTR6L3R5IG2J1
 
