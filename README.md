@@ -1,6 +1,15 @@
-Trabalho com programação desde 2017 especializado com desenvolvimento de aplicativos, sistemas e back-end, criei alguns projetos relacionado a bitcoin, telegram, whatsapp e aplicativo de transporte urbano em NA Produções.
+Trabalho com programação desde 2017 especializado em desenvolvimento front-end de aplicativos, sites e também back-end, criei alguns projetos relacionado a bitcoin, telegram, whatsapp e aplicativo de transporte urbano em NA Produções Artísticas.
 
-Atualmente estou desenvolvendo em diversas ideias pessoais e free-lancer, o que estou estudando no momento e C# e Kotlin para Android
+Padrões de projeto como o Solid, Singleton, Adapter e Factory é dos meus pontos fontes em Design Patterns.
+
+Atualmente estou desenvolvendo em diversas ideias pessoais e free-lancer, o que estou estudando no momento é C# ASP.NET e Kotlin para Android
+
+Como me encontrar 
+Telegram: @isacrodriguesdev 
+Whatsapp: https://wa.me/message/DXTR6L3R5IG2J1
+
+Meu Github
+https://github.com/isacrodriguesdev
 
 <b>Como me encontrar</b><br/>
 Telegram: @isacrodriguesdev<br/>
