@@ -2,7 +2,7 @@ Trabalho com programação desde 2017 especializado em desenvolvimento front-end
 
 Padrões de projeto como o Solid, Singleton, Adapter, Observer e Factory é dos meus pontos fontes em Design Patterns.
 
-Atualmente estou desenvolvendo em diversas ideias pessoais e free-lancer, o que estou estudando no momento é C# ASP.NET e Kotlin para Android
+Atualmente estou desenvolvendo em diversas ideias pessoais e free-lancer, o que estou estudando no momento é C# ASP.NET e Kotlin para Android.
 
 Meu Github
 https://github.com/isacrodriguesdev
