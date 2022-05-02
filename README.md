@@ -1,6 +1,6 @@
 Trabalho com programação desde 2017 especializado em desenvolvimento front-end de aplicativos, sites e também back-end, criei alguns projetos relacionado a bitcoin, telegram, whatsapp e aplicativo de transporte urbano em NA Produções Artísticas.
 
-Padrões de projeto como o Solid, Singleton, Adapter e Factory é dos meus pontos fontes em Design Patterns.
+Padrões de projeto como o Solid, Singleton, Adapter, Observer e Factory é dos meus pontos fontes em Design Patterns.
 
 Atualmente estou desenvolvendo em diversas ideias pessoais e free-lancer, o que estou estudando no momento é C# ASP.NET e Kotlin para Android
 
