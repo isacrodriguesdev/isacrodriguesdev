@@ -1,11 +1,8 @@
-Trabalho com programação desde 2017 especializado em desenvolvimento front-end de aplicativos, sites e também back-end, criei alguns projetos relacionado a bitcoin, telegram, whatsapp e aplicativo de transporte urbano em NA Produções Artísticas.
+Trabalho com programação desde 2017 especializado em desenvolvimento front-end de aplicativos, sites e também back-end, criei alguns projetos relacionado a bitcoin, telegram, whatsapp e aplicativo de transporte urbano.
 
-Padrões de projeto como o Solid, Singleton, Adapter, Observer e Factory é dos meus pontos fontes em Design Patterns.
+A primeira empresa que trabalhei foi a NA Produções Artísticas, escritório da cantora Naiara Azevedo como desenvolvedor de software.
 
-Atualmente estou desenvolvendo em diversas ideias pessoais e free-lancer, o que estou estudando no momento é C# ASP.NET e Kotlin para Android.
-
-Meu Github
-https://github.com/isacrodriguesdev
+Atualmente sou desenvolvedor na Click Fiscal que oferece facilidade para advogados, principalmente em recuperação tributária.
 
 <b>Como me encontrar</b><br/>
 Telegram: @isacrodriguesdev<br/>
@@ -14,18 +11,6 @@ Whatsapp: https://wa.me/message/DXTR6L3R5IG2J1
 <b>Endereço bitcoin</b>
 <br/>
 bc1qk8v3gup2ecx8t846c6f2qklu5dd2nkukvplaqw
-<br/>
-<br/>
-
-<div align="left" valign="top">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="android" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-  <img align="center" alt="kotlin" height="23" width="33" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/android.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-</div>
-
 <br/>
 <br/>
 
