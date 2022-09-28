@@ -8,7 +8,7 @@ Whatsapp: https://wa.me/message/DXTR6L3R5IG2J1
 
 <b>Endereço bitcoin</b>
 <br/>
-bc1qk8v3gup2ecx8t846c6f2qklu5dd2nkukvplaqw
+bc1qkn0pxnv2923zcn588z5zaqtlc52rsk799en0sq
 <br/>
 <br/>
 
