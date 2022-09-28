@@ -1,4 +1,4 @@
-Trabalho com programação desde 2017 mas a primeira empresa que trabalhei foi a NA Produções Artísticas em 2020, escritório da cantora Naiara Azevedo como desenvolvedor de software.
+Sou programador desde 2018 mas a primeira empresa que trabalhei foi a NA Produções Artísticas em 2020, escritório da cantora Naiara Azevedo como desenvolvedor de software.
 
 Atualmente sou desenvolvedor na Click Fiscal que oferece facilidade para advogados, principalmente em recuperação tributária.
 
