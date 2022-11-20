@@ -1,15 +1,15 @@
 Desenvolvedor full-stack, tenho muita experiência com as principais linguagens de programação
 
-Node.js
-Javascript
-C# Dotnet
+Node.js<br/>
+Javascript<br/>
+C# Dotnet<br/>
 
 ## Frameworks
 
-ReactJS
-React Native
-Next.js
-Express
+ReactJS<br/>
+React Native<br/>
+Next.js<br/>
+Express<br/>
 
 Atualmente sou desenvolvedor na Click Fiscal que oferece facilidade para advogados, principalmente em recuperação tributária.
 
