@@ -1,4 +1,15 @@
-Sou programador desde 2018 mas a primeira empresa que trabalhei foi a NA Produções Artísticas em 2020, escritório da cantora Naiara Azevedo como desenvolvedor de software.
+Desenvolvedor full-stack, tenho muita experiência com as principais linguagens de programação
+
+Node.js
+Javascript
+C# Dotnet
+
+## Frameworks
+
+ReactJS
+React Native
+Next.js
+Express
 
 Atualmente sou desenvolvedor na Click Fiscal que oferece facilidade para advogados, principalmente em recuperação tributária.
 
