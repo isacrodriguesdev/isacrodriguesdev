@@ -11,7 +11,7 @@ React Native<br/>
 Next.js<br/>
 Express<br/>
 
-## Emprego Atual
+## Sobre
 Atualmente sou desenvolvedor na Click Fiscal que oferece facilidade para advogados, principalmente em recuperação tributária.
 
 <b>Como me encontrar</b><br/>
