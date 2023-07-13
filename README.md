@@ -4,16 +4,6 @@ Node.js<br/>
 Javascript<br/>
 C# Dotnet<br/>
 
-## Frameworks
-
-ReactJS<br/>
-React Native<br/>
-Next.js<br/>
-Express<br/>
-
-## Sobre
-Atualmente sou desenvolvedor na Click Fiscal que oferece facilidade para advogados, principalmente em recuperação tributária.
-
 <b>Como me encontrar</b><br/>
 Telegram: @isacrodriguesdev<br/>
 Whatsapp: https://wa.me/message/DXTR6L3R5IG2J1
