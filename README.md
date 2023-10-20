@@ -4,11 +4,10 @@ Minha jornada começou em 2015 com PHP, mas rapidamente me aventurei em diversas
 
 Estou comprometido em impulsionar a inovação e ansioso para colaborar em desafios. Vamos nos conectar!
 
-<b>Como me encontrar</b><br/>
+<b>Como me encontrar</b><br/><br/>
 Telegram: @isacrodriguesdev<br/>
 Whatsapp: https://wa.me/message/DXTR6L3R5IG2J1
 
-<br/>
 <br/>
 
 <div align="left">
