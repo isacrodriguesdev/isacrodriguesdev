@@ -1,16 +1,13 @@
-Desenvolvedor full-stack, tenho muita experiência com as principais linguagens de programação
+Desenvolvedor de Software | 8 anos de experiência
 
-Node.js<br/>
-Javascript<br/>
-C# Dotnet<br/>
+Minha jornada começou em 2015 com PHP, mas rapidamente me aventurei em diversas tecnologias, incluindo JavaScript, TypeScript, Node.js, React, React Native e C#. Sou apaixonado por tecnologia, não por ferramentas, e minha força reside na resolução criativa de problemas, independentemente da linguagem ou ferramenta necessária. 
+
+Estou comprometido em impulsionar a inovação e ansioso para colaborar em desafios. Vamos nos conectar!
 
 <b>Como me encontrar</b><br/>
 Telegram: @isacrodriguesdev<br/>
 Whatsapp: https://wa.me/message/DXTR6L3R5IG2J1
 
-<b>Endereço bitcoin</b>
-<br/>
-bc1qkn0pxnv2923zcn588z5zaqtlc52rsk799en0sq
 <br/>
 <br/>
 
