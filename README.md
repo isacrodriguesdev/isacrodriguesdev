@@ -1,6 +1,6 @@
 Desenvolvedor de Software | 8 anos de experiência
 
-Minha jornada começou em 2015 com PHP, mas rapidamente me aventurei em diversas tecnologias, incluindo JavaScript, TypeScript, Node.js, React, React Native e C#. Sou apaixonado por tecnologia, não por ferramentas, e minha força reside na resolução criativa de problemas, independentemente da linguagem ou ferramenta necessária. 
+Minha jornada começou com Java e PHP, mas rapidamente me aventurei em diversas tecnologias, incluindo JavaScript, TypeScript, Node.js, React, React Native e C#. Sou apaixonado por tecnologia, não por ferramentas, e minha força reside na resolução criativa de problemas, independentemente da linguagem ou ferramenta necessária. 
 
 Estou comprometido em impulsionar a inovação e ansioso para colaborar em desafios. Vamos nos conectar!
 
