@@ -6,7 +6,6 @@ Estou comprometido em impulsionar a inovação e ansioso para colaborar em desaf
 
 <b>Como me encontrar</b><br/><br/>
 Telegram: @isacrodriguesdev<br/>
-Whatsapp: https://wa.me/message/DXTR6L3R5IG2J1
 
 <br/>
 
