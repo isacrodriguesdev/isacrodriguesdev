@@ -1,17 +1,33 @@
-CEO e Fundador da WorkeHub | Desenvolvedor de Software com 8 anos de experiência
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Isac Rodrigues - CEO & Fundador da WorkeHub</title>
+</head>
+<body style="background-color: #F5F5F5; font-family: Arial, sans-serif; text-align: center; padding: 20px;">
 
-Com uma paixão pela resolução criativa de problemas em tecnologia, minha jornada de 8 anos na indústria de desenvolvimento de software me levou de Java e PHP a uma variedade de tecnologias, incluindo JavaScript, TypeScript, Node.js, React, React Native e C#. 
+  <h1 style="color: #1E90FF;">🚀 CEO & Fundador da WorkeHub 🌐</h1>
+  <p style="font-size: 18px; color: #333;">Desenvolvedor de Software com 8 anos de experiência 🖥️</p>
 
-Minha missão como CEO da WorkeHub é conectar talentosos desenvolvedores de software com oportunidades empolgantes e simplificar o recrutamento para empresas de tecnologia. 
+  <p style="font-size: 20px; color: #4CAF50;">Com uma paixão pela resolução criativa de problemas em tecnologia, minha jornada de 8 anos na indústria de desenvolvimento de software me levou de Java e PHP a uma variedade de tecnologias, incluindo JavaScript, TypeScript, Node.js, React, React Native e C#.</p>
 
-Estou dedicado a impulsionar a inovação e ansioso para colaborar em desafios.
+  <p style="font-size: 20px; color: #4CAF50;">Minha missão como CEO da WorkeHub é conectar talentosos desenvolvedores de software com oportunidades empolgantes e simplificar o recrutamento para empresas de tecnologia.</p>
 
-<b>Como me encontrar</b><br/><br/>
-Telegram: @isacrodriguesdev<br/>
+  <p style="font-size: 20px; color: #4CAF50;">Estou dedicado a impulsionar a inovação e ansioso para colaborar em desafios. 🌟</p>
 
-<br/>
+  <h2 style="color: #1E90FF;">Como me encontrar 📬</h2>
+  <br/>
 
-<div align="left">
-<!--   <a href="https://www.instagram.com/isacrodrigues.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.linkedin.com/in/isacrodriguesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  <p style="font-size: 18px; color: #333;">Telegram: @isacrodriguesdev 📱</p>
+
+  <div align="left">
+    <!-- <a href="https://www.instagram.com/isacrodrigues.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a> -->
+    <a href="https://www.linkedin.com/in/isacrodriguesdev/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+  </div>
+
+</body>
+</html>
+
