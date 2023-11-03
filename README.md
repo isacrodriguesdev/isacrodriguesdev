@@ -1,8 +1,10 @@
-Desenvolvedor de Software | 8 anos de experiência
+CEO e Fundador da WorkeHub | Desenvolvedor de Software com 8 anos de experiência
 
-Minha jornada começou com Java e PHP, mas rapidamente me aventurei em diversas tecnologias, incluindo JavaScript, TypeScript, Node.js, React, React Native e C#. Sou apaixonado por tecnologia, não por ferramentas, e minha força reside na resolução criativa de problemas, independentemente da linguagem ou ferramenta necessária. 
+Com uma paixão pela resolução criativa de problemas em tecnologia, minha jornada de 8 anos na indústria de desenvolvimento de software me levou de Java e PHP a uma variedade de tecnologias, incluindo JavaScript, TypeScript, Node.js, React, React Native e C#. 
 
-Estou comprometido em impulsionar a inovação e ansioso para colaborar em desafios.
+Minha missão como CEO da WorkeHub é conectar talentosos desenvolvedores de software com oportunidades empolgantes e simplificar o recrutamento para empresas de tecnologia. 
+
+Estou dedicado a impulsionar a inovação e ansioso para colaborar em desafios.
 
 <b>Como me encontrar</b><br/><br/>
 Telegram: @isacrodriguesdev<br/>
