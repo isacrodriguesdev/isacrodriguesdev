@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Isac Rodrigues - CEO & Fundador da WorkeHub</title>
-</head>
-<body style="background-color: #F5F5F5; font-family: Arial, sans-serif; text-align: center; padding: 20px;">
+
 
   <h1 style="color: #1E90FF;">🚀 CEO & Fundador da WorkeHub 🌐</h1>
   <p style="font-size: 18px; color: #333;">Desenvolvedor de Software com 8 anos de experiência 🖥️</p>
@@ -27,7 +22,4 @@
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
   </div>
-
-</body>
-</html>
 
