@@ -2,8 +2,6 @@
 
 <p>Profissional com 9 anos de experiência em desenvolvimento de software, atuando como desenvolvedor full-stack. Tenho uma forte base tanto em backend quanto em front-end, o que me permite entender e atender às necessidades específicas de cada projeto, criando sistemas bem estruturados.</p>
 
-<p>Estou dedicado a impulsionar a inovação e ansioso para colaborar em desafios.</p>
-
 <h2>Como me encontrar</h2>
 
 <p>
