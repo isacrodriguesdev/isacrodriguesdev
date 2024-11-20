@@ -1,8 +1,6 @@
-<h2>🚀 CEO e Fundador da WorkeHub | Desenvolvedor de Software</h2>
+<h2>Desenvolvedor de Software</h2>
 
-<p>Com uma paixão pela resolução criativa de problemas em tecnologia, minha jornada de 8 anos na indústria de desenvolvimento de software me levou de Java e PHP a uma variedade de tecnologias, incluindo JavaScript, TypeScript, Node.js, React, React Native e C#.</p>
-
-<p>Minha missão como CEO da WorkeHub é conectar talentosos desenvolvedores de software com oportunidades empolgantes e simplificar o recrutamento para empresas de tecnologia.</p>
+<p>Profissional com 9 anos de experiência em desenvolvimento de software, atuando como desenvolvedor full-stack. Tenho uma forte base tanto em backend quanto em front-end, o que me permite entender e atender às necessidades específicas de cada projeto, criando sistemas bem estruturados.</p>
 
 <p>Estou dedicado a impulsionar a inovação e ansioso para colaborar em desafios.</p>
 
