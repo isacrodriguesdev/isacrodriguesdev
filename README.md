@@ -18,7 +18,7 @@
 <h2>Habilidades</h2>
 <p>
     🚀 Desenvolvimento Full-Stack <br>
-    ⚙️ Backend: Node.js, Kotlin <br>
+    ⚙️ Backend: Node.js, .NET Core<br>
     🎨 Frontend: ReactJS, Jetpack Compose <br>
     🛠️ Infraestrutura: Apache Kafka, Microsserviços, Bancos de Dados <br>
 </p>
