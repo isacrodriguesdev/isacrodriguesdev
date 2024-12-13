@@ -1,6 +1,6 @@
-<h1 align="center">Desenvolvedor de Software</h1>
+<h1>Desenvolvedor de Software</h1>
 
-<p align="center">
+<p>
     Sou um Desenvolvedor Full-Stack com 9 anos de experiência, com foco em criar soluções escaláveis e de alto desempenho. Minha especialidade é trabalhar com Node.js no backend, e ReactJS no frontend, utilizando também tecnologias como Apache Kafka e bancos de dados escaláveis. Tenho experiência em desenvolvimento de micro-serviços, APIs seguras e integrações complexas, sempre priorizando a eficiência e a qualidade do código.
 
 Adoto padrões de mercado como SOLID, Clean Code e Design Patterns para garantir a manutenção, escalabilidade e legibilidade dos sistemas que desenvolvo. Tenho uma forte capacidade de adaptação e sou motivado a resolver problemas desafiadores, tanto individualmente quanto em equipe. Ao longo da minha carreira, participei de diversos projetos, desde otimização de sistemas até o desenvolvimento de soluções personalizadas para melhorar a experiência do usuário. Estou em busca de novas oportunidades que me permitam continuar evoluindo e impactando positivamente o desenvolvimento de software.
